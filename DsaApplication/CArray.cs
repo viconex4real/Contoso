@@ -22,6 +22,12 @@ namespace DsaApplication
         public void CalculateArea()
         {
             //nothing yet
+
+        }
+
+        public void lastValue()
+        {
+            //nothing yet
         }
 
         public void Insert(int item) {
