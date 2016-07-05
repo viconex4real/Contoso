@@ -19,6 +19,11 @@ namespace DsaApplication
             numElements = 0;
         }
 
+        public void CalculateArea()
+        {
+            //nothing yet
+        }
+
         public void Insert(int item) {
         arr[numElements] = item;
         numElements++;
